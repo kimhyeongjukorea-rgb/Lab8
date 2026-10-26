@@ -1,3 +1,2 @@
 This is an update on the main branch
 
-git log --oneline --decorate --graph --all
